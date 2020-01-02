@@ -1,0 +1,5 @@
+CSS
+{make image fit in a component: width 100%;
+center content Margin auto;
+if sytle not reflecting :inpect to check whether it is peaked ,check where the sytle sheet is linked correctly;
+}
