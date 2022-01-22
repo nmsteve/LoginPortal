@@ -1,2 +1,2 @@
 # LoginPortal
-A LoginPortal created using Bootstrap
+A Login Portal front-end created using Bootstrap, includes hide/show password factionality 
