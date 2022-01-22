@@ -2,9 +2,7 @@
     background-color: #e6f2ff;
 }
 
-.sigin-container{
-   
-}
+
 
 .signin-card{
      background-color: #f4f4f4;
@@ -15,9 +13,12 @@
 }
 
 .signin-img{
-    display: block;
     margin: auto;
-    margin-bottom: 5%;
+    width: 180px;
+    display: block;
+    align-self:center;
+    margin-bottom: 50px ;
+    
 }
 
 .signin-form{
@@ -36,7 +37,7 @@
 
 .signin-btn{
     color:#ffff;
-    background-color: #d64829;
+    background-color: #00457C;
     margin: auto;
     width: 100%;
     margin-bottom: 4%;
@@ -52,3 +53,10 @@
     text-align: center;
     margin-top: 10px;
 }
+
+.field-icon {
+    float: right;
+    margin-top: -25px;
+    position: relative; 
+    padding-right: 50px;
+  }
